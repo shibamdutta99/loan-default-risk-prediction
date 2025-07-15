@@ -95,12 +95,16 @@ pip install -r requirements.txt
 
 Then open the Jupyter notebook:
 jupyter notebook "Loan Default Risk Prediction.ipynb"
+```
 
 
-🚀 Future Work
+##🚀 Future Work
 Model tuning (GridSearchCV)
+
 Cross-validation
+
 Deploy model with Streamlit or Flask
+
 Add feature selection pipeline
 
 🙋‍♂️ About Me
