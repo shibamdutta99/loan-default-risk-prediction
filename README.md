@@ -98,7 +98,7 @@ jupyter notebook "Loan Default Risk Prediction.ipynb"
 ```
 
 
-##🚀 Future Work
+🚀 Future Work
 Model tuning (GridSearchCV)
 
 Cross-validation
