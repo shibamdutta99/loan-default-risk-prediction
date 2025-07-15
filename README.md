@@ -111,7 +111,8 @@ Add feature selection pipeline
 Hi, I'm Shibam Dutta — a data analyst transitioning from photography and visual storytelling into the world of data.
 
 📌 Open to Data Analyst and ML Associate roles
-📬 Let’s connect on LinkedIn
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/shibam-dutta-6a644a43/)
+
 
 ⭐ Support This Project
 If you found this helpful:
